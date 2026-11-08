@@ -1,0 +1,13 @@
+{
+  "name": "ctu-smart-campus-service-requests",
+  "version": "1.0.0",
+  "description": "CC316 Midterm - CTU Smart Campus Service Request System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}

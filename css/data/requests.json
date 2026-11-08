@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CTU-20261108-YM4E",
+    "studentName": "Kyla Mangubat",
+    "concernType": "Laboratory",
+    "description": "The items are all old",
+    "dateOfRequest": "2026-11-08",
+    "status": "active",
+    "createdAt": "2026-11-08T12:12:08.832Z"
+  },
+  {
+    "id": "CTU-20261108-6NQF",
+    "studentName": "Mia Tampus",
+    "concernType": "Laboratory",
+    "description": "NWHJgyusgasyhaioshgayugbahdhguasasd mndjshuwj.",
+    "dateOfRequest": "2026-11-08",
+    "status": "closed",
+    "createdAt": "2026-11-08T12:13:20.677Z"
+  }
+]
